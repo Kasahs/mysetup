@@ -1,0 +1,41 @@
+{
+  "languageserver": {
+    "godot": {
+      "host": "127.0.0.1",
+      "filetypes": [
+        "gd",
+        "gdscript",
+        "gdscript3"
+      ],
+      "port": 6008
+    }
+  },
+  "diagnostic.enableSign": false,
+  "diagnostic.enableHighlightLineNumber": true,
+  "diagnostic.level": "hint",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "python",
+    "json",
+    "javascriptreact",
+    "typescript.tsx",
+    "graphql",
+    "markdown",
+    "rust",
+    "gdscript3",
+    "gdscript",
+    "go",
+    "html",
+    "css"
+  ],
+  "coc.preferences.colorSupport": false,
+  "suggest.fixInsertedWord": false,
+  "suggest.maxCompleteItemCount": 50,
+  "suggest.noselect": true,
+  "rust-analyzer.inlayHints.enable": false,
+  "python.venvFolders": [
+    ".pyenv"
+  ]
+}
