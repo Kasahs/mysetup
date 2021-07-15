@@ -1,0 +1,2 @@
+ln -s $HOME/.mysetup/nvim/* $HOME/.config/nvim
+ln -s $HOME/.mysetup/tmux/.tmux.conf $HOME/.tmux.conf
